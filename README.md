@@ -3,15 +3,9 @@
 - Sou do Espirito Santo e tenho 21 anos, sou Desenvolvedor <strong>Back-And</strong>, mas também gosto muito de participar no <strong>Front-End</strong>. <br>
 Além de fazer alguns trabalhos em <strong>TI</strong>...
 
-- Meu website Curriculo: https://pedrohenriiqu.github.io/Meu-Portifolio/
 - Meu website Curriculo: <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank">Click aqui</a>
 
-  
-
 <a href="https://www.instagram.com/pedro.pompermayer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
-
 
 <h2 align="left">Linguagens e Ferramentas mais usadas:👨‍💻</h2>
 
@@ -26,8 +20,16 @@ Além de fazer alguns trabalhos em <strong>TI</strong>...
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+
 <h2 align="left">Entre em Contato:📲</h2>
 <div>
   <a href = "mailto:pompermayerpedrohenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
+
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriiqu&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriiqu&layout=compact&langs_count=7&theme=github_ambient_gradient)
+
+
+
+
