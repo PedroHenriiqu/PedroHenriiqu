@@ -1,6 +1,6 @@
 ## Opaa... Olá mundo! Me chamo Pedro Henrique Pompermayer 🤙
 
-- Atualmente estou Cursando o 5° Periodo do curso de Sistema de Informação na Faculdade Unisales ES, sou Desenvolvedor <strong>Back-And</strong>, mas também gosto de participar do <strong>Front-End</strong>. <br>
+- Atualmente estou Cursando o 5° Periodo do curso de Sistema de Informação na Faculdade Unisales ES, sou Desenvolvedor <strong>Back-And</strong>, mas também gosto de atuar no <strong>Front-End</strong>. <br>
 Além de fazer alguns trabalhos em <strong>TI</strong>...
 
 - Meu website Curriculo: <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank">Click aqui</a>
