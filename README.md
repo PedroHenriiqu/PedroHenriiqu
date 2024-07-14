@@ -1,6 +1,6 @@
 ## Opaa... Olá mundo! Me chamo Pedro Henrique Pompermayer 🤙
 
-- Sou do Espirito Santo e tenho 21 anos, sou Desenvolvedor <strong>Back-And</strong>, mas também gosto muito de participar no <strong>Front-End</strong>. <br>
+- Atualmente estou Cursando o 5° Periodo do curso de Sistema de Informação na Faculdade Unisales ES, sou Desenvolvedor <strong>Back-And</strong>, mas também gosto de participar do <strong>Front-End</strong>. <br>
 Além de fazer alguns trabalhos em <strong>TI</strong>...
 
 - Meu website Curriculo: <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank">Click aqui</a>
@@ -27,9 +27,6 @@ Além de fazer alguns trabalhos em <strong>TI</strong>...
   <a href = "mailto:pompermayerpedrohenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
+<br>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriiqu&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriiqu&layout=compact&langs_count=7&theme=github_ambient_gradient)
-
-
-
-
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriiqu&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriiqu&layout=compact&langs_count=7&theme=dark&show)
