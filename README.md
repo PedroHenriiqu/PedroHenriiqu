@@ -4,7 +4,7 @@
 Além de fazer alguns trabalhos em <strong>TI</strong>...
 
 - Meu website Curriculo: https://pedrohenriiqu.github.io/Meu-Portifolio/
-- Meu website Curriculo: <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/">Click aqui</a>
+- Meu website Curriculo: <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/" target="_blank">Click aqui</a>
 
   
 
@@ -29,4 +29,5 @@ Além de fazer alguns trabalhos em <strong>TI</strong>...
 <h2 align="left">Entre em Contato:📲</h2>
 <div>
   <a href = "mailto:pompermayerpedrohenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://pedrohenriiqu.github.io/Meu-Portifolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
